@@ -1,4 +1,13 @@
 
+# GramFix
+
+In age of social media, people are using the incorrect form of grammar and even 
+incorrect English in their messages, so when they have to write a formal letter, mail, message 
+to someone they face issues. People often use some software like Grammarly to ensure that the 
+message they send is absolutely correct. 
+Our project also has the same motive and we have tried to make an alternative to Grammarly, 
+without the hassle of logging in to a website and having a possible risk of data leak.
+
 ## Machine Learning Model:
 
 T5-base model:
